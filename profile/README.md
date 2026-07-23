@@ -15,15 +15,20 @@ Built by someone who ran events for 20+ years — not by someone who read about 
 
 ---
 
-## Modules in development
+## Platform Modules
 
 | Module | Description | Status |
 |---|---|---|
-| Identity | Auth · Google OAuth · multi-tenant · org isolation | ✅ Live |
-| Inventarios | Inventory · CRUD · Supabase Storage · RLS | ✅ Live |
-| Layout Engine | Canvas floor planner · Konva · PDF export | ✅ Live |
-| Ventas | CRM · proposals · client management | 🔧 In progress |
-| Agentes AI | Autonomous agents · scheduling · ops automation | 🔧 In progress |
+| 🔐 Identity | Auth · Google OAuth · multi-tenant · org isolation | ✅ Live |
+| 💰 Ventas | CRM · clients · leads · opportunities · quotes | ✅ Live |
+| 📋 Eventos | Event planning · work orders · team management | ✅ Live |
+| 🗺️ Layout Engine | 2D canvas floor planner · real measurements · PDF export | ✅ Live |
+| 📦 Inventario | Inventory control · furniture & equipment tracking | ✅ Live |
+| 📱 FieldOps | On-site team coordination · real-time ops | ✅ Live |
+| 💵 Financiero | Financial management · invoicing · reporting | ✅ Live |
+| ⚙️ Administrativo | Org settings · team management · permissions | ✅ Live |
+| 🤖 Agentes AI | AI agent · meeting intelligence · agreements · multi-channel | ✅ Live |
+| 👥 Portal Cliente | External client portal · event status · documents | ✅ Live |
 
 ---
 
